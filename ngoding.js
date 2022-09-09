@@ -1,1 +1,5 @@
-console.log("Update branch master")
+<<<<<<< HEAD
+console.log('My Cool Feature')
+=======
+console.log('My Cool Feature')
+>>>>>>> new-feature
